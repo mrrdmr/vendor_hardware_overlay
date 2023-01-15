@@ -5,6 +5,10 @@
         <overlay android:targetPackage="android"
                 android:requiredSystemPropertyName="ro.product.vendor.device"
                 android:requiredSystemPropertyValue="veux"
+<<<<<<< HEAD
 		android:priority="628"
+=======
+		android:priority="965"
+>>>>>>> 9b6af29b62e0f5c97578590567051d388c9a8998
 		android:isStatic="true" />
 </manifest>

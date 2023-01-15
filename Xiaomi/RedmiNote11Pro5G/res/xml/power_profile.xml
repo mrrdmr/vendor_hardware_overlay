@@ -19,6 +19,12 @@
         <value>2.82</value>
         <value>1.82</value>
     </array>
+<<<<<<< HEAD
+=======
+    <array name="cpu.active">
+        <value>0.1</value>
+    </array>
+>>>>>>> 9b6af29b62e0f5c97578590567051d388c9a8998
     <array name="cpu.clusters.cores">
         <value>6</value>
         <value>2</value>
@@ -99,7 +105,11 @@
         <value>401</value>
         <value>506</value>
     </array>
+<<<<<<< HEAD
     <item name="modem.controller.voltage">0</item>
+=======
+    <item name="modem.controller.voltage">800</item>
+>>>>>>> 9b6af29b62e0f5c97578590567051d388c9a8998
     <array name="gps.signalqualitybased">
         <value>0</value>
         <value>0</value>
